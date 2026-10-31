@@ -1,0 +1,28 @@
+PORTFOLIO QA REPORT — 31 OCT 2026
+
+Source: Hariharan P - Portfolio - updated - 31-10-26 - version 2.zip
+
+Changes made:
+- Reworked six project cards using the project information available in the supplied project notes.
+- Removed misleading pending/source-unavailable labels and unsupported placeholder technology tags.
+- Reordered projects: Smart Blood Bank Management System, DonationDesk, WarrantyWise, FoundIt, AI-Powered Expense Analyzer, RideRent.
+- Configured six repository destinations; only WarrantyWise has a demo link because the supplied notes indicate the Expense Analyzer demo currently returns 404 and no other verified demo URLs were available.
+- Added real repository URLs recorded in the prior project notes. Smart Blood Bank, DonationDesk and RideRent are private repositories and will not be accessible to public visitors unless permissions/visibility are changed.
+- Removed fabricated example.com and your-username URLs.
+- Made Subject required in the contact form.
+- Added netlify.toml and NETLIFY-DEPLOYMENT.md.
+- Updated README deployment and link notes.
+
+Static checks:
+- Six project cards: PASS
+- Project order: PASS
+- Six configured repository links: PASS
+- No placeholder example.com/your-username URLs in project config: PASS
+- Netlify Forms markup and hidden form-name field: PASS
+- Required Subject field: PASS
+- Inline JavaScript syntax checks (4 scripts): PASS
+
+Not completed:
+- Browser visual inspection was attempted, but browser navigation was blocked by the execution environment (ERR_BLOCKED_BY_ADMINISTRATOR); no claim of full visual QA is made.
+- Contact form delivery cannot be tested until deployed on Netlify with form detection enabled and an email notification configured.
+- WarrantyWise demo availability and all external repository permissions should be checked from a public browser before launch.

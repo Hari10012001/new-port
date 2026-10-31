@@ -1,0 +1,6 @@
+Self-hosted fonts (SIL Open Font License 1.1, https://openfontlicense.org)
+
+- Syne (variable, latin subset) - Copyright the Syne Project Authors. Source: @fontsource-variable/syne 5.3.0
+- DM Sans (variable, latin subset) - Copyright the DM Sans Project Authors. Source: @fontsource-variable/dm-sans 5.3.0
+
+Both are redistributed unmodified under the OFL 1.1. Fonts are licensed, not sold; they may not be sold on their own.

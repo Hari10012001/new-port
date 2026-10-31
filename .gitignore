@@ -1,0 +1,19 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local secrets and private portrait source
+.env
+.env.*
+!.env.example
+/pic2(5).jpeg
